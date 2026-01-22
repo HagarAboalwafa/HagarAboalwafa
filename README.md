@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hi, I'm Hager AbouElwafa</h1>
+<h1 align="center">👋 Hi, I'm Hager AboalElwafa</h1>
 <h4 align="center">
-Frontend Developer  • Cyber Security Student
+Frontend Developer • Cyber Security Student
 </h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hager-abouelwafa">
+  <a href="https://www.linkedin.com/in/hagar-aboalwafa-448547357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hager.dev@gmail.com">
@@ -102,10 +102,10 @@ Frontend Developer  • Cyber Security Student
 ## 💬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hagar-aboalwafa-448547357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/hager-abouelwafa">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/HagarAboalwafa">
+  <a href="https://github.com/hagerabouelwafa">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
