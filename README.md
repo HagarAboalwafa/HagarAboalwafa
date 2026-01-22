@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hi, I'm Hager AboalElwafa</h1>
+<h1 align="center">👋 Hi, I'm Hager Abouelwafa</h1>
 <h4 align="center">
 Frontend Developer • Cyber Security Student
 </h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hagar-aboalwafa-448547357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/hagar-aboalwafa-448547357">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hager.dev@gmail.com">
@@ -19,15 +19,16 @@ Frontend Developer • Cyber Security Student
 
 ## 🧑‍💻 About Me
 
-- 💻 **Frontend Developer passionate about clean UI & UX**
-- ☕ **Currently learning Java (OOP & problem solving)**
-- 🔐 **Cyber Security student – fundamentals & web security**
-- 🌱 **Always learning and building small projects**
-- 🌍 **Based in Egypt**
+- 💻 *Frontend Developer (HTML, CSS)*
+- 🎨 Passionate about clean UI & good UX
+- ☕ Currently learning *Java (OOP & Problem Solving)*
+- 🔐 *Cyber Security student* (fundamentals & web security)
+- 🌱 Always learning and building small projects
+- 🌍 Based in *Egypt*
 
 ---
 
-## 🏅 Most Used Skills
+## 🏅 Skills
 
 <div align="center">
   <table>
@@ -84,25 +85,25 @@ Frontend Developer • Cyber Security Student
 | Project | Description | Tech |
 |-------|------------|------|
 | Portfolio Website | Personal responsive website | HTML, CSS |
-| Java Console Apps | Practice projects | Java |
-| Security Labs | Basic security testing | Linux |
+| Java Apps | Console & OOP practice | Java |
+| Security Labs | Basic security & Linux labs | Linux |
 
 ---
 
 ## 🎯 Goals
 
-- 🎨 Become a strong **Frontend Developer**
-- ☕ Master **Java programming**
-- 🔐 Build solid **Cyber Security foundations**
+- 🎨 Become a strong *Frontend Developer*
+- ☕ Master *Java & OOP*
+- 🔐 Build solid *Cyber Security foundations*
 - 🚀 Create real-world projects
-- 📚 Learn every day
+- 📚 Keep learning every day
 
 ---
 
 ## 💬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hager-abouelwafa">
+  <a href="https://www.linkedin.com/in/hagar-aboalwafa-448547357">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/hagerabouelwafa">
