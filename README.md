@@ -6,9 +6,9 @@ Java Learner ☕ | Cyber Security Student 🔐
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Hager%20Abou%20Elwafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://www.linkedin.com/in/hagar-aboalwafa-448547357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" />
   </a>
-  <a href="https://github.com/YOUR-USERNAME">
+  <a href="">
     <img src="https://img.shields.io/badge/GitHub-HagerAbouElwafa-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
