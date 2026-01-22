@@ -7,14 +7,14 @@
 src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'
 width='200"'>
 
-[![LinkedIn Badge](https://www.linkedin.com/in/hagar-aboalwafa-448547357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/hager-abouelwafa)
-[![Gmail Badge](https://www.hageraboalwafa66@gmail.com)](mailto:hager.dev@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Hager%20Abou%20Elwafa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hager-abouelwafa)](https://www.linkedin.com/in/hager-abouelwafa)
+[![Gmail Badge](https://img.shields.io/badge/-hager.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hager.dev@gmail.com)](mailto:hager.dev@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-hagerabouelwafa-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/hagerabouelwafa)](https://github.com/hagerabouelwafa)
 
 ---
 
 I’m **Hager Abou Elwafa** 😃  
-A passionate **Frontend Developer** 💻 currently learning *☕ & Cyber Security 🔐**.  
+A passionate **Frontend Developer** 💻 currently learning **Java ☕ & Cyber Security 🔐**.  
 I enjoy building **clean, simple, and responsive user interfaces** and continuously improving my technical skills.
 
 ---
@@ -33,7 +33,7 @@ I enjoy building **clean, simple, and responsive user interfaces** and continuou
 
 Talk to me about:
 
-- 🎨 Front-end development using **HTML, CSS,Javascrubt**
+- 🎨 Front-end development using **HTML, CSS**
 - 📱 Responsive Web Design
 - ☕ Programming fundamentals with **Java**
 - 🧰 Version control using **Git & GitHub**
@@ -51,3 +51,5 @@ Talk to me about:
 - ⚡ Fun fact: Learning something new every day makes coding fun ✨
 
 ---
+
+!
