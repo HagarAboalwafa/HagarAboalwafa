@@ -1,50 +1,36 @@
-<h1 align="center">Hi 👋, I'm Hager AbouElWafa Bahloul</h1>
-<h3 align="center">Frontend Developer | Cyber Security Learner 🔐</h3>
-
----
-
-### 👩‍💻 About Me
-- 🌱 I’m currently learning **HTML, CSS & Cyber Security**
-- 🎯 Interested in **Web Security & Ethical Hacking**
-- 💡 I love learning new technologies and improving my skills
-- 📫 Reach me on GitHub
-
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-</p>
-
----
-
-### 🔐 Cyber Security (Learning)
-- Basics of Networking
-- Linux Fundamentals
-- Security Concepts
-- Ethical Hacking (Beginner)
-
----
-
-### 🔗 Connect With Me
-<p align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical"/>
-</p>
+<h1 align="center">Hi, I'm Hager Abou Elwafa 👋</h1>
+<h3 align="center">
+Frontend Developer 💻 | HTML & CSS 🎨 <br>
+Java Learner ☕ | Cyber Security Student 🔐
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical"/>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Hager%20Abou%20Elwafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-HagerAbouElwafa-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🤍 Thank You for Visiting My Profile
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" height="3px" />
+
+## 🚀 About Me
+
+```java
+public class HagerAbouElwafa {
+    String role = "Frontend Developer";
+    String learning = "Java & Cyber Security";
+    String passion = "Building clean and simple UIs";
+
+    String[] skills = {
+        "HTML5",
+        "CSS3",
+        "Responsive Design",
+        "Git & GitHub",
+        "Basic Java",
+        "Cyber Security Fundamentals"
+    };
+}
