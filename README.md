@@ -21,7 +21,7 @@ A passionate **Front-End Developer** & **Cyber Security Enthusiast** 🔐
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://www.linkedin.com/in/hagar-aboalwafa-448547357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/hagar-aboalwafa-448547357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
 
