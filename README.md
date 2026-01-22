@@ -1,122 +1,51 @@
-<h1 align="center">👋 Hi, I'm Hager Abouelwafa</h1>
-<h4 align="center">
-Frontend Developer • Cyber Security Student
-</h4>
+## Hey 👋, I'm Hager Abou Elwafa!
+<a href='https://www.linkedin.com/in/hager-abouelwafa'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://github.com/hagerabouelwafa'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
+<a href='mailto:hager.dev@gmail.com'><img align='left' alt="gmail" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/gmail.svg" height='18px'/></a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hagar-aboalwafa-448547357">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:hager.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=hagerabouelwafa&style=flat-square" alt="profile views"/>
-</p>
+I am a **Frontend Developer** 💻 learning **Java ☕ & Cyber Security 🔐**.  
+I love building **clean and responsive UIs** and exploring new tech stacks to improve my skills.  
 
----
+<img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-<img align="right" src="https://i.imgur.com/z5Rxq12.png" width="260" alt="Coding Girl" />
+### 🧐 More About Me:
 
-## 🧑‍💻 About Me
+- 🔭 &nbsp; Currently working on personal frontend projects
+- 🌱 &nbsp; Learning Java & Cyber Security fundamentals
+- 👨‍💻 &nbsp; Most projects are on [GitHub](https://github.com/hagerabouelwafa?tab=repositories)
+- 💬 &nbsp; Ask me about **HTML, CSS, Java, or Cyber Security**
+- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/hager-abouelwafa/)
+- 📝 &nbsp; My resume: [Google Drive link](#) (عدلي الرابط حسب ملفك)
+- 📚 &nbsp; Enjoy reading tech blogs and practicing coding challenges
 
-- 💻 *Frontend Developer (HTML, CSS)*
-- 🎨 Passionate about clean UI & good UX
-- ☕ Currently learning *Java (OOP & Problem Solving)*
-- 🔐 *Cyber Security student* (fundamentals & web security)
-- 🌱 Always learning and building small projects
-- 🌍 Based in *Egypt*
+<br>
 
----
+### 🔨 Languages and Tools:
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="HTML" height="42px"/></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="CSS" height="42px"/></a>
+<a href="https://www.java.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" alt="Java" height="42px"/></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="Git" height='42px'/></a>
+<a href="https://github.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/github/github.svg" alt="GitHub" height='42px'/></a>
+<a href="https://www.figma.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="Figma" height='42px'/></a>
 
-## 🏅 Skills
+<br><br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=html" width="48" />
-        <br><b>HTML5</b>
-      </td>
-      <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=css" width="48" />
-        <br><b>CSS3</b>
-      </td>
-      <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=java" width="48" />
-        <br><b>Java</b>
-      </td>
-      <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=git" width="48" />
-        <br><b>Git</b>
-      </td>
-      <td align="center" width="130">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" />
-        <br><b>Linux</b>
-      </td>
-    </tr>
-  </table>
-</div>
+### 📊 Github Stats
+<a href='https://github.com/hagerabouelwafa/github-stats-transparent'>
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+</a>
 
----
+<br>
 
-## 🚀 Tech Stack
+### 🛠️ My Projects
+<a href="https://github.com/hagerabouelwafa/portfolio" target="_blank"><img alt="portfolio" src="./projects/portfolio.svg" height="68" align="left"/></a>
+<a href="https://github.com/hagerabouelwafa/frontend-mini-projects" target="_blank"><img alt="frontend-projects" src="./projects/frontend.svg" height="68" align="left"/></a>
+<a href="https://github.com/hagerabouelwafa/cyber-security-practice" target="_blank"><img alt="cybersecurity" src="./projects/cybersecurity.svg" height="68" align="left"/></a>
+<a href="https://github.com/hagerabouelwafa/java-practice" target="_blank"><img alt="java-projects" src="./projects/java.svg" height="68" align="left"/></a>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,git,github,vscode,linux" />
-</p>
+<br><br><br>
 
----
+### ⚡ Fun Fact
+> “Learning never exhausts the mind. Keep building and experimenting.” ✨
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hagerabouelwafa&show_icons=true&theme=tokyonight&hide_border=true" width="340" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hagerabouelwafa&theme=tokyonight&hide_border=true" width="340" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hagerabouelwafa&theme=tokyonight" width="700" />
-</div>
-
----
-
-## ✨ Projects (Coming Soon)
-
-| Project | Description | Tech |
-|-------|------------|------|
-| Portfolio Website | Personal responsive website | HTML, CSS |
-| Java Apps | Console & OOP practice | Java |
-| Security Labs | Basic security & Linux labs | Linux |
-
----
-
-## 🎯 Goals
-
-- 🎨 Become a strong *Frontend Developer*
-- ☕ Master *Java & OOP*
-- 🔐 Build solid *Cyber Security foundations*
-- 🚀 Create real-world projects
-- 📚 Keep learning every day
-
----
-
-## 💬 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hagar-aboalwafa-448547357">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/hagerabouelwafa">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <b>“Learn step by step, build with confidence.” ✨</b>
-</p>
