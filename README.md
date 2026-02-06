@@ -86,6 +86,6 @@ A passionate **Front-End Developer** exploring the world of **Cyber Security** �
 ---
 
 <p align="center">
-  💖 Made with love by <b>Hagar Abou Elwafa</b> 💖
+
 </p>
 
