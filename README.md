@@ -1,33 +1,37 @@
 <h2 align="center">
-  Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+  Hi, I'm Hagar 👋 <𝚌𝚘𝚍𝚎𝚛𝚜/>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h2>
+
+<p align="center">
+  Front-End Developer 💻 | Cyber Security Enthusiast 🔐
+</p>
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
 
 ---
 
-## 👩‍💻 About Me
+## 🌸 About Me
 
-I am **Hagar Abou Elwafa** 😄  
-A passionate **Front-End Developer** & **Cyber Security Enthusiast** 🔐  
+Hi! I'm **Hagar Abou Elwafa** 😄  
+A passionate **Front-End Developer** with a growing love for **Cyber Security** 🔐  
 
-- 💻 I love building clean & responsive user interfaces  
-- 🔐 Interested in securing web applications  
-- 📚 Always learning new technologies  
-- 🎯 Goal: Become a professional Front-End & Cyber Security Specialist  
+- 🎨 I enjoy building clean, responsive & user-friendly interfaces  
+- 🔐 Curious about securing web applications  
+- 📚 Always learning & improving myself  
+- 🎯 Dream: Become a professional **Front-End & Cyber Security Specialist**
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/hagar-aboalwafa-448547357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/hagar-aboalwafa-448547357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hagar-aboalwafa-448547357)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
 
 ---
 
-## ⚡ Technologies & Skills
+## ⚡ Tech Stack & Skills
 
 ### 🎨 Front-End
 <p>
@@ -35,13 +39,13 @@ A passionate **Front-End Developer** & **Cyber Security Enthusiast** 🔐
 </p>
 
 - Responsive Web Design  
-- UI / UX Basics  
+- UI / UX Fundamentals  
 
 ### 🔐 Cyber Security
-- Networking Fundamentals  
-- Web Security Basics  
+- Networking Basics  
+- Web Security Fundamentals  
 - OWASP Top 10  
-- Ethical Hacking (Beginner)  
+- Ethical Hacking (Beginner Level)
 
 ### 🧠 Programming Languages
 <p>
@@ -56,6 +60,7 @@ A passionate **Front-End Developer** & **Cyber Security Enthusiast** 🔐
 ---
 
 ## 🚀 Currently Learning
+
 - Advanced JavaScript  
 - Front-End Frameworks  
 - Web Penetration Testing  
@@ -76,18 +81,17 @@ A passionate **Front-End Developer** & **Cyber Security Enthusiast** 🔐
 ---
 
 ## 🧠 Quote I Believe In
+
 > *“Security is not a product, but a process.”* 🔐
 
 ---
 
-## 💬 Hello World!!
-- 💬 Ask me about **Front-End & Cyber Security**
-- 📚 I enjoy learning and sharing knowledge
-- ⚡ Fun fact: Hackers don’t hack systems, they hack minds 😄
+## 💬 Let's Talk!
+
+- 💬 Ask me about **Front-End Development & Cyber Security**  
+- 📚 I love learning and sharing knowledge  
+- ⚡ Fun fact: Hackers don’t hack systems, they hack minds 😄  
 
 ---
 
-⭐ From **Hagar Abou Elwafa**
-
----
-
+⭐ Made with love by **Hagar Abou Elwafa** 💖
