@@ -29,8 +29,9 @@ A passionate **Front-End Developer** exploring the world of **Cyber Security** �
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-💙-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hagar-aboalwafa-448547357)
-[![Gmail](https://img.shields.io/badge/Gmail-💌-red?style=flat-square&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-💙-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hagar-aboalwafa-662288389)
+
+[![Gmail](https://img.shields.io/badge/Gmail-💌-red?style=flat-square&logo=gmail&logoColor=white)](mailto:hagaraboalwafa66@gmil.com)
 
 ---
 
