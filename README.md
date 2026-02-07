@@ -1,14 +1,12 @@
-
-
 <h2 align="center">
   Hey there, I'm Hagar 👋🌸
   <br/>
-  <𝚌𝚘𝚍𝚎𝚛𝚜/>
+  <𝚌𝚢𝚋𝚎𝚛_𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢/>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h2>
 
 <p align="center">
-  💻 Front-End Developer &nbsp;•&nbsp; 🔐 Cyber Security Enthusiast
+  🔐 Cyber Security Student &nbsp;•&nbsp; 🛡 Security Enthusiast
 </p>
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
@@ -18,57 +16,53 @@
 ## 🌸 About Me
 
 Hey! I'm **Hagar Abou Elwafa** 💕  
-A passionate **Front-End Developer** exploring the world of **Cyber Security** 🔐✨  
+A **Cyber Security student** interested in protecting systems, networks, and web applications 🔐✨  
 
-- 🎨 I love designing clean & responsive UIs  
-- 🛡 Curious about protecting web applications  
-- 📚 Always learning something new  
-- 🌈 Dreaming big: **Front-End & Cyber Security Specialist**
+- 🛡 Passionate about cyber security fundamentals  
+- 🌐 Interested in web security & vulnerabilities  
+- 📚 Always learning and improving my technical skills  
+- 🎯 Goal: Build a strong career in **Cyber Security**
 
 ---
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-💙-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hagar-aboalwafa-662288389)
+[LinkedIn – coming soon]
 
-[![Gmail](https://img.shields.io/badge/Gmail-💌-red?style=flat-square&logo=gmail&logoColor=white)](mailto:hagaraboalwafa66@gmil.com)
+📧 Email: hagaraboalwafa66@gmail.com
 
 ---
 
-## ⚡ Tech Stack
+## 🔐 Cyber Security Skills
 
-### 🎨 Front-End
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
-
-- Responsive Design 📱  
-- UI / UX Basics 🎀  
-
-### 🔐 Cyber Security
 - Networking Fundamentals  
 - Web Security Basics  
 - OWASP Top 10  
-- Ethical Hacking (Beginner) 🕵️‍♀️  
+- Ethical Hacking (Beginner)  
+- Linux Basics  
 
-### 🧠 Languages I Use
+---
+
+## 🧠 Programming & Scripting
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python" />
+  <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
-### 🛠 Tools & Platforms
+---
+
+## 🛠 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
 
 ## 🚀 Currently Learning
 
-- ✨ Advanced JavaScript  
-- ⚛ Front-End Frameworks  
-- 🛡 Web Penetration Testing  
 - 🔐 Cyber Security Foundations  
+- 🌐 Web Penetration Testing  
+- 🕵️ Ethical Hacking Basics  
+- 📡 Networking Concepts  
 
 ---
 
@@ -80,13 +74,7 @@ A passionate **Front-End Developer** exploring the world of **Cyber Security** �
 
 ## 💬 Fun Corner
 
-- 💬 Ask me about **Front-End & Cyber Security**  
-- 📖 I enjoy learning & sharing knowledge  
-- 😄 Fun fact: Hackers hack minds before systems  
-
----
-
-<p align="center">
-
-</p>
+- 💬 Ask me about **Cyber Security basics**  
+- 📖 I enjoy learning quietly and consistently  
+- 😄 Fun fact: Hackers exploit logic before systems
 
